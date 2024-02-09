@@ -1,0 +1,1 @@
+Here SpringBoot  Work as a consumer as well as producer
